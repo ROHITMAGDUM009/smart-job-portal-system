@@ -170,9 +170,7 @@ Service Layer
 AI / Matching Engine
 Repository Layer
 Database (MySQL)
-```
 
----
 
 ## 2.2 Backend Package Structure
 
